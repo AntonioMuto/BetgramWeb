@@ -13,7 +13,7 @@ export class FootballMatch {
         this.homeFT = homeFT;
         this.awayFT = awayFT;
         this.venue = venue;
-        this.status = status;
+        this.status = status; 
     }
 }
 
